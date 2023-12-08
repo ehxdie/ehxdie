@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on MERN Chat application.<br>🤝 Available for frontend and solidity dev roles.<br>📖 Learning advanced Solidity concepts, next.js, and tailwind.
+🔭 I'm currently working on a MERN Chat application.<br>🤝 Available for frontend and solidity dev roles.<br>📖 Learning advanced Solidity concepts, next.js, and tailwind.
 
 
 ## 🌐 Socials:

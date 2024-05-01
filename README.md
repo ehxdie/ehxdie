@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a playlist converter across various platforms.<br>🤝 Available for frontend and solidity dev roles.<br>📖 Learning about severless architecture and vercel functions, and tailwind.
+🔭 Currently working as a software developer at norm.<br> 📖 Learning rust
 
 
 ## 🌐 Socials:

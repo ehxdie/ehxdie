@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a software developer at norm.<br> 📖 Learning rust
+🔭 Building a chat-gpt wrapper .<br> 📖 Learning rust
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building a chat-gpt wrapper .<br> 📖 Learning rust and Java
+🔭 Building a chat-gpt wrapper .<br> 📖 Learning Haskell, Rust and Java
 
 
 ## 🌐 Socials:

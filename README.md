@@ -24,7 +24,8 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehxdie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ehxdie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=ehxdie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehxdie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building a real estate market leads automation platform.<br>
+🔭 Building a card payment system.<br>
 💼 Full-stack/backend developer working with TypeScript, Node.js & PostgreSQL.<br>
 📖 Currently learning Go and diving deeper into AI/LLM integrations.
 
